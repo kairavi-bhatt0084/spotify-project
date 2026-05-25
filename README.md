@@ -22,4 +22,4 @@ This project analyzes Spotify music data using Python and Jupyter Notebook.
 - spotify.ipynb
 
 ## Author
-Your Name
+Kairavi
